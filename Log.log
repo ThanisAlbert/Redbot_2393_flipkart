@@ -1,62 +1,18 @@
-INFO : Flipkart Page Loaded : 2024-04-22 18:41:57,497
-INFO : Flipkart Page Loaded : 2024-04-22 18:41:57,497
-INFO : Logged in successfully : 2024-04-22 18:42:23,472
-INFO : Logged in successfully : 2024-04-22 18:42:23,472
-INFO : ***************************FNHWKN04683002*********************************** : 2024-04-22 18:42:23,571
-INFO : ***************************FNHWKN04683002*********************************** : 2024-04-22 18:42:23,571
-INFO : Button is disabled for FNHWKN04683002 : 2024-04-22 18:42:31,493
-INFO : Button is disabled for FNHWKN04683002 : 2024-04-22 18:42:31,493
-INFO : login_page_load_error : 2024-04-22 18:42:38,467
-INFO : login_page_load_error : 2024-04-22 18:42:38,467
-INFO : Message: move target out of bounds
-  (Session info: chrome=123.0.6312.123)
-Stacktrace:
-	GetHandleVerifier [0x006E4CA3+225091]
-	(No symbol) [0x00614DF1]
-	(No symbol) [0x004B9944]
-	(No symbol) [0x0052BE24]
-	(No symbol) [0x0050F55C]
-	(No symbol) [0x00525CB0]
-	(No symbol) [0x0050F2F6]
-	(No symbol) [0x004E79B9]
-	(No symbol) [0x004E879D]
-	sqlite3_dbdata_init [0x00B59A43+4064547]
-	sqlite3_dbdata_init [0x00B6104A+4094762]
-	sqlite3_dbdata_init [0x00B5B948+4072488]
-	sqlite3_dbdata_init [0x0085C9A9+930953]
-	(No symbol) [0x006207C4]
-	(No symbol) [0x0061ACE8]
-	(No symbol) [0x0061AE11]
-	(No symbol) [0x0060CA80]
-	(No symbol) [0x76D87BA9]
-	RtlInitializeExceptionChain [0x774CBE3B+107]
-	RtlClearBits [0x774CBDBF+191]
- : 2024-04-22 18:42:38,468
-INFO : Message: move target out of bounds
-  (Session info: chrome=123.0.6312.123)
-Stacktrace:
-	GetHandleVerifier [0x006E4CA3+225091]
-	(No symbol) [0x00614DF1]
-	(No symbol) [0x004B9944]
-	(No symbol) [0x0052BE24]
-	(No symbol) [0x0050F55C]
-	(No symbol) [0x00525CB0]
-	(No symbol) [0x0050F2F6]
-	(No symbol) [0x004E79B9]
-	(No symbol) [0x004E879D]
-	sqlite3_dbdata_init [0x00B59A43+4064547]
-	sqlite3_dbdata_init [0x00B6104A+4094762]
-	sqlite3_dbdata_init [0x00B5B948+4072488]
-	sqlite3_dbdata_init [0x0085C9A9+930953]
-	(No symbol) [0x006207C4]
-	(No symbol) [0x0061ACE8]
-	(No symbol) [0x0061AE11]
-	(No symbol) [0x0060CA80]
-	(No symbol) [0x76D87BA9]
-	RtlInitializeExceptionChain [0x774CBE3B+107]
-	RtlClearBits [0x774CBDBF+191]
- : 2024-04-22 18:42:38,468
-INFO : ***************************FBPWN04688442*********************************** : 2024-04-22 18:42:38,651
-INFO : ***************************FBPWN04688442*********************************** : 2024-04-22 18:42:38,651
-INFO : There are no slots available at the moment.Please contact support to request a slot.  FBPWN04688442 : 2024-04-22 18:42:45,577
-INFO : There are no slots available at the moment.Please contact support to request a slot.  FBPWN04688442 : 2024-04-22 18:42:45,577
+INFO : Flipkart Page Loaded : 2024-04-25 16:10:23,742
+INFO : Flipkart Page Loaded : 2024-04-25 16:10:23,742
+INFO : Tried Again  : 2024-04-25 16:13:40,954
+INFO : Tried Again  : 2024-04-25 16:13:40,954
+INFO : Flipkart Page Loaded : 2024-04-25 16:13:48,464
+INFO : Flipkart Page Loaded : 2024-04-25 16:13:48,464
+INFO : Tried Again  : 2024-04-25 16:17:05,352
+INFO : Tried Again  : 2024-04-25 16:17:05,352
+INFO : Flipkart Page Loaded : 2024-04-25 16:17:08,564
+INFO : Flipkart Page Loaded : 2024-04-25 16:17:08,564
+INFO : Tried Again  : 2024-04-25 16:20:25,564
+INFO : Tried Again  : 2024-04-25 16:20:25,564
+INFO : Flipkart Page Loaded : 2024-04-25 16:20:29,960
+INFO : Flipkart Page Loaded : 2024-04-25 16:20:29,960
+INFO : Tried Again  : 2024-04-25 16:23:47,208
+INFO : Tried Again  : 2024-04-25 16:23:47,208
+INFO : Flipkart Page Loaded : 2024-04-25 16:23:51,369
+INFO : Flipkart Page Loaded : 2024-04-25 16:23:51,369

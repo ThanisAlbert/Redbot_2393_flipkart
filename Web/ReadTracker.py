@@ -15,7 +15,8 @@ class Tracker(Log):
 
     def read(self):
 
-        tracker_wk = openpyxl.load_workbook(self.tracker)
+        print(self.tracker)
+        tracker_wk = openpyxl.load_workbook(self.tracker, read_only=False, keep_vba=True)
         tracker_sht = tracker_wk['Sheet1']
 
         maxrow = 0
@@ -31,6 +32,8 @@ class Tracker(Log):
                 maxrow = maxrow + 1
 
         tracker_wk.save(self.tracker)
+        tracker_wk.close()
+
         self.label.configure(text=str("Logging in "))
         self.label.update()
 
@@ -61,6 +64,7 @@ class Tracker(Log):
             i=i+1
 
         tracker_wk.save(self.tracker)
+        tracker_wk.close()
         self.label.configure(text=str(f"Completed"))
         self.label.update()
         messagebox.showinfo('Info', 'Consignment Draft Completed!')

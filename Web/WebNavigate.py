@@ -89,11 +89,8 @@ class WebNavigate(WebWait,Log):
                     pass
                 else:
                     self.log.info(f"Button is disabled for {ponum}")
-
                     xpath = "//div[@id='createCsgnBtn']"
-
                     #how to hover to xpath
-
                     break
 
                 self.driver.find_element_by_xpath("//button[contains(text(),'Create Consignment')]").click()
